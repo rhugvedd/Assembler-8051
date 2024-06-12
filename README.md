@@ -3,6 +3,9 @@
 ## Overview
 The choice of this project topic was to get a very good insight into coding professional software that addresses all user cases and product requirements. The main and foremost requirement of the project was to develop an assembler that creates a .hex file after decoding a .asm file (containing Intel MCS-8051 instructions).
 
+## Disclaimer
+As I upload this project to GitHub along with my other older projects, it's important to note that I am presenting it in its original form, without modifications. Therefore, the concepts and coding style reflect my skills and knowledge as of 2021, rather than my current capabilities. Please overlook any technical or logical errors in the project.
+
 ## Capabilities
 The assembler has the following capabilities:
 
